@@ -1,0 +1,20 @@
+# Large files and models
+model/
+*.zip
+*.bin
+*.tar.gz
+*.safetensors
+*.pt
+*.pth
+
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
