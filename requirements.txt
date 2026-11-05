@@ -1,0 +1,10 @@
+transformers==4.51.0
+accelerate==0.34.0
+peft==0.11.1
+bitsandbytes==0.45.3
+trl==0.9.4
+sentencepiece==0.2.0
+datasets
+rouge_score
+nltk
+torch==2.5.1
